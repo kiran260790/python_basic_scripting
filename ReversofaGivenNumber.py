@@ -1,4 +1,5 @@
-Number = int(input("Eneter the Number to Reverse : "))
+#Number = int(input("Eneter the Number to Reverse : "))
+Number = 123
 Reverse = 0
 while(Number > 0):
     Remainder = Number % 10

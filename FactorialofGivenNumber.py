@@ -1,4 +1,4 @@
-n = int(input("Enter the Number to Find the Factorial : "))
+n = 5#int(input("Enter the Number to Find the Factorial : "))
 Fact = 1
 if n < 0:
     print("For Negitive Number Factorial is Doen't Exits")

@@ -1,8 +1,8 @@
 from Cal import calculator
 
 
-num1 = int(input("Enter the First Number : "))
-num2 = int(input("Enter the Second Number : "))
+num1 = 10#int(input("Enter the First Number : "))
+num2 = 20#int(input("Enter the Second Number : "))
 
 c = calculator(num1,num2)
 print("The Addition of Two Number are :",c.addition())
